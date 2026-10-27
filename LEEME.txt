@@ -1,0 +1,21 @@
+SITIO WEB: OPERACIÓN ROSARIO
+
+Contenido:
+- index.html: sitio web adaptable a celulares.
+- assets/infografia_operacion_rosario.png: infografía incorporada a la página.
+- Video embebido: “Malvinas día por día — Capítulo I”, alojado en YouTube.
+- Fuentes y referencias al final de la página.
+
+PUBLICACIÓN RÁPIDA (Netlify Drop):
+1. Descomprimí el archivo ZIP.
+2. Entrá a https://app.netlify.com/drop desde una computadora.
+3. Arrastrá la carpeta del sitio o su contenido según lo indique la página.
+4. Netlify te dará una URL pública.
+5. Abrí la URL desde un celular y probá el video y la infografía.
+6. Pegá la URL pública en https://www.qrcode-monkey.com/ y generá el QR.
+
+IMPORTANTE:
+- El QR debe apuntar a la URL pública del sitio, no a un archivo local.
+- El video se reproduce desde YouTube; requiere conexión a Internet y puede estar sujeto a restricciones del proveedor.
+- La infografía es una ilustración generada para este proyecto, no una fotografía documental.
+- Antes de una entrega formal, verificá los datos con las fuentes enlazadas.
